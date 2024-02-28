@@ -1,0 +1,1 @@
+Q.2 How to find all permutations of String? example if user input "xyz" then "zxy","xzy","yzx","zyx" are permutations?
