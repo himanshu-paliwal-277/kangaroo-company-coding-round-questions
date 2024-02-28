@@ -1,0 +1,1 @@
+Q.1 Check that Strings are anagrams of each other, for example Army and Mary are an anagram.
